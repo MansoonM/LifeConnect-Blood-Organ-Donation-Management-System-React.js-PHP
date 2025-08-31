@@ -1,0 +1,6 @@
+.nav-link.active {
+  color: #ffc107 !important;   /* Yellow highlight */
+  font-weight: bold !important;
+  border-bottom: 2px solid #ffc107;
+  transition: all 0.3s ease-in-out;
+}
